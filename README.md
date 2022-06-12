@@ -1,6 +1,6 @@
 # Spirograph
 
-Demo: https://cultivaid.de/fraktaler-spirograph/
+Demo: https://static.cultivaid.de/benice/
 
 Explanation Blog Post: https://cultivaid.de/fraktaler-spirograph/
 
